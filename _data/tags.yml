@@ -8,3 +8,6 @@
 -
   tag: testtag2
   description: I'm another test tag. Edit this information in _data/tags.yml. Don't forget to add a template in tag/ as well.
+-
+  tag: newbie
+  description: I'm another test tag. Edit this information in _data/tags.yml. Don't forget to add a template in tag/ as well.
