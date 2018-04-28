@@ -7,7 +7,7 @@ title: "A Quick Peek"
 date:   2018-03-12 16:07:56
 tags: newbie
 author: gravett
-cover: 'assets/images/Libraricus.png'
+cover: 'assets/images/Libraricus-1400.png'
 ---
 
 I'm beginning to have trouble thinking up new ways to title these posts. While I navigate my clumsy way through learning how to 
