@@ -7,7 +7,7 @@ title: "A Quick Peek"
 date:   2018-03-12 16:07:56
 tags: newbie
 author: gravett
-cover: 'assets/images/cover1.jpg'
+cover: 'assets/images/Libraricus.png'
 ---
 
 I'm beginning to have trouble thinking up new ways to title these posts. While I navigate my clumsy way through learning how to 
@@ -18,9 +18,9 @@ the start of a new project.
 
 This sounds stupid, I know. But this is how my mind works and I learned *long* ago that I can't change it or escape it. So...
 
-## Welcome to Test Post #1!
+### Welcome to Test Post #1...
 
 A 'quick peek' at the final product as it slowly turns into whatever it's going to eventually be. I leave you with these words -- 
-*words to live by*:
+*words to live by* -- and then you may see yourself out:
 
 > "Aggression will save you when caution fails."
