@@ -7,7 +7,7 @@ title: "Welcome to Jekyll!"
 date:   2016-03-18 16:07:56
 tags: testtag testtag2
 author: adams
-cover: 'assets/images/cover1.jpg'
+cover: 'assets/images/montyPy.jpg'
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it.
