@@ -3,8 +3,8 @@
 layout: post
 
 # Edit title, date, tags, author and (optional) relative path to cover image
-title: "Welcome to the Dust Pan of My Mind"
-date:   2018-03-18 16:07:56
+title: "Breaking the Seal"
+date:   2018-05-13 16:07:56
 tags: start
 author: gravett
 cover: 'assets/images/Copernicanum.png'
